@@ -1,1 +1,2 @@
 original line
+branch2 commit 1
