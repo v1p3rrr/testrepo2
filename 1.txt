@@ -1,2 +1,2 @@
 original line
-branch2 commit 2
+branch2 commit 3
